@@ -1,4 +1,4 @@
-# blog-post-project
+# blog_post_project
 
 ## Project setup
 ```
